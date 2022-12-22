@@ -54,7 +54,7 @@ body {
 }
 .section-item a:hover {
   color: #234d26;
-}п
+}
 
 .main-container {
   display: flex;
@@ -63,4 +63,8 @@ body {
 
 .section {
   width: 50%;
+}
+
+.logo {
+  height: 40px;
 }
