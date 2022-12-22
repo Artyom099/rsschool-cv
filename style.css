@@ -62,7 +62,7 @@ body {
 }
 
 .section {
-  width: 80%;
+  width: 50%;
 }
 
 .logo {
@@ -70,5 +70,5 @@ body {
 }
 
 .my photo {
-  height: 400px;
+  height: 100px;
 }
